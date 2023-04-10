@@ -1,0 +1,2 @@
+# CodeWarsWeek5
+StayGoing
